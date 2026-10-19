@@ -2,7 +2,7 @@
 
 # Mohamed Abdelaziz
 
-**`Software Engineer · CS & AI Student · Building Systems from First Principles`**
+**`CS Student · AI Engineering Specialist · Building Systems from First Principles`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-zizo-sketch.github.io/portfolio/)
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-🎓 **Computer Science & AI** at **Alexandria University**, Egypt  
+🎓 **CS Student** at **Faculty of Science, Alexandria University**, Egypt — Specialized in **AI Engineering**  
 🔬 I don't just use libraries — I build algorithms **from scratch**:  
 &nbsp;&nbsp;&nbsp;&nbsp;Thompson's NFA Construction · Shunting-yard Parsers · Adam/AdaGrad Optimizers · Expression Tree Evaluators  
 🏗️ I design enterprise software with **clean OOP, DAO patterns, and resilient architectures**  
